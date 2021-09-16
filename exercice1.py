@@ -11,9 +11,8 @@ def fizzBuzz(n):
     else:
         resultat = n
 
-
-
     return resultat
+
 
 if __name__ == '__main__':
     n = int(input("indiquez le nombre: "))
